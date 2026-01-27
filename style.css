@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    color: #333;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+header {
+    background: #1e293b;
+    color: white;
+    padding: 15px 0;
+}
+
+.logo {
+    display: inline-block;
+}
+
+nav {
+    float: right;
+}
+
+nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.hero {
+    background: #0f172a;
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    background: #22c55e;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.services, .projects, .contact {
+    padding: 40px 0;
+    background: white;
+    margin-top: 10px;
+}
+
+.service-box {
+    background: #f1f5f9;
+    padding: 20px;
+    margin: 15px 0;
+    border-left: 5px solid #22c55e;
+}
+
+.projects ul {
+    list-style: square;
+    padding-left: 20px;
+}
+
+.contact form {
+    margin-top: 20px;
+}
+
+.contact input, .contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.contact button {
+    padding: 10px 20px;
+    background: #22c55e;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+footer {
+    background: #1e293b;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 20px;
+}
