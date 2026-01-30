@@ -83,6 +83,23 @@ nav a {
     color: white;
     cursor: pointer;
 }
+    .whatsApp-link {
+        display:inline-block;
+        color:#22c55e;
+        font-weight:bold;
+        text-decoration:none;
+        font-size:1.1em;
+        margin-top:15px;
+        padding: 8px 15px;
+        border:2px solid #22c55e;
+        border-radius:5px;
+        transition: all 0.3s ease;
+}
+    .whatsApp-link:hover {
+        background:#22c55e;
+        color: white;
+        text-decoration:none;
+    }
 
 footer {
     background: #1e293b;
@@ -90,4 +107,5 @@ footer {
     text-align: center;
     padding: 15px 0;
     margin-top: 20px;
+
 }
