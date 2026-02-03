@@ -81,14 +81,11 @@ University Student
 
 ---
 
-## 📫 Connect With Me
+## 📫 
 <p align="center">
   📧 Email: <a href="mailto:smartitservicesm3@gmail.com">smartitservicesm3@gmail.com</a>
 </p>
 
-<p align="center">
-  <a href="https://wa.me/252636069192" target="_blank" class="whatsApp-link">
-    📱 WhatsApp: +252636069192
   </a>
 </p>
 
